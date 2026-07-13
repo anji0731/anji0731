@@ -1,61 +1,48 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,15:312E81,35:4F46E5,55:6D28D9,75:7C3AED,100:A855F7&text=Sri%20Anjaneyulu&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Sri%20Anjaneyulu&fontSize=58&fontColor=ffffff&animation=fadeIn&color=0:0B1023,20:312E81,45:4F46E5,70:7C3AED,100:C026D3"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Building+Scalable+AI+Applications;FastAPI+%7C+React+%7C+PostgreSQL;Backend+Engineering+Enthusiast;Generative+AI+%7C+LLMs+%7C+RAG;Turning+Ideas+Into+Production+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=950&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;FastAPI+%7C+React+%7C+PostgreSQL;Building+Scalable+Products;Always+Learning+%F0%9F%9A%80"/>
 
 </div>
 
-<table>
-<tr>
+---
 
-<td width="58%" valign="top">
+```bash
+> whoami
 
-# Hi there 👋
+Name        :: Sri Anjaneyulu
+Role        :: AI Engineer & Full Stack Developer
+Education   :: B.Tech CSE (2026)
+Location    :: Andhra Pradesh, India
 
-### I'm **Sri Anjaneyulu**
+Specialization
+--------------
+✓ Backend Engineering
+✓ Artificial Intelligence
+✓ FastAPI Development
+✓ React Ecosystem
+✓ PostgreSQL
+✓ System Design
 
-AI Engineer focused on designing **high-performance backend systems**, **AI-powered products**, and **enterprise-grade full stack applications**.
-
-- 🔭 Building production-ready software
-- 🤖 Exploring LLMs & Agentic AI
-- ⚡ FastAPI Backend Engineer
-- 🌐 React & Modern Web Technologies
-- 📚 Always learning System Design & Cloud
-- 🚀 Open to Software Engineering opportunities
-
-</td>
-
-<td width="42%" align="center">
-
-<img width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVzbWx0Nm9uN2gwMm9xZDJpc2M2eGQ5aHVqZ2o5eHNlaHZjY2Q0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
-
-</td>
-
-</tr>
-</table>
+Current Mission
+---------------
+Building production-ready AI applications that solve
+real-world problems with scalable architecture.
+```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-8.21-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Class%20of-2026-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/India-Andhra%20Pradesh-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br><br>
-
 <a href="https://your-portfolio-url.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/srianjaneyulu0731">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:srianjaneyulu0731@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Mail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/anji0731">
@@ -64,21 +51,20 @@ AI Engineer focused on designing **high-performance backend systems**, **AI-powe
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=anji0731&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=anji0731&style=for-the-badge&color=8B5CF6"/>
 
 <img src="https://img.shields.io/github/followers/anji0731?style=for-the-badge&color=6D28D9"/>
 
-<img src="https://img.shields.io/github/stars/anji0731?affiliations=OWNER&style=for-the-badge&color=A855F7"/>
+<img src="https://img.shields.io/github/stars/anji0731?style=for-the-badge&color=A855F7"/>
 
 </div>
-
----
 
 <div align="center">
 
-### *"Designing intelligent software that scales from ideas to production."*
+### *"Engineering intelligent software with clean architecture, scalable systems, and AI-first thinking."*
 
 </div>
+
 
 # AI / Machine Learning Expertise
 
