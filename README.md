@@ -1,155 +1,74 @@
-<!-- ========================================================= -->
-<!--                   ANJI0731 | GITHUB PROFILE                -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6D28D9,50:7C3AED,75:9333EA,100:A855F7&text=Sri%20Anjaneyulu&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,15:312E81,35:4F46E5,55:6D28D9,75:7C3AED,100:A855F7&text=Sri%20Anjaneyulu&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=AI+Engineer;Full+Stack+Developer;FastAPI+%7C+React+%7C+PostgreSQL;Building+Production+Ready+Applications;Open+Source+Enthusiast;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Building+Scalable+AI+Applications;FastAPI+%7C+React+%7C+PostgreSQL;Backend+Engineering+Enthusiast;Generative+AI+%7C+LLMs+%7C+RAG;Turning+Ideas+Into+Production+Software"/>
 
-<br><br>
+</div>
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+# Hi there 👋
+
+### I'm **Sri Anjaneyulu**
+
+AI Engineer focused on designing **high-performance backend systems**, **AI-powered products**, and **enterprise-grade full stack applications**.
+
+- 🔭 Building production-ready software
+- 🤖 Exploring LLMs & Agentic AI
+- ⚡ FastAPI Backend Engineer
+- 🌐 React & Modern Web Technologies
+- 📚 Always learning System Design & Cloud
+- 🚀 Open to Software Engineering opportunities
+
+</td>
+
+<td width="42%" align="center">
+
+<img width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVzbWx0Nm9uN2gwMm9xZDJpc2M2eGQ5aHVqZ2o5eHNlaHZjY2Q0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/CGPA-8.21-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Class%20of-2026-8B5CF6?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/India-Andhra%20Pradesh-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
 
 <a href="https://your-portfolio-url.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-6D28D9?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/srianjaneyulu0731">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:srianjaneyulu0731@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/anji0731">
-<img src="https://img.shields.io/badge/GitHub-anji0731-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-anji0731-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=anji0731&style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/followers/anji0731?style=for-the-badge&color=6D28D9&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/github/followers/anji0731?style=for-the-badge&color=6D28D9"/>
 
-<img src="https://img.shields.io/github/stars/anji0731?affiliations=OWNER&style=for-the-badge&color=8B5CF6&labelColor=1e1e2e"/>
-
-</div>
-
----
-
-# About Me
-
-I'm **Sri Anjaneyulu**, an **AI Engineer** and **Full Stack Software Developer** passionate about designing scalable software products that combine modern backend engineering, intelligent AI systems, and exceptional user experiences.
-
-My engineering philosophy focuses on building production-ready applications that solve real-world problems using clean architecture, maintainable code, and industry-standard development practices.
-
-With hands-on experience in **FastAPI**, **React**, **PostgreSQL**, **Redis**, **JWT Authentication**, **REST APIs**, **LLM Integration**, and **AI-powered applications**, I enjoy transforming complex business requirements into scalable software solutions.
-
-I actively explore modern software engineering, cloud-native architectures, generative AI, retrieval-augmented generation (RAG), and intelligent automation to build applications that are both performant and future-ready.
-
-### Engineering Interests
-
-- Production-grade Backend Development
-- Artificial Intelligence & Machine Learning
-- Large Language Models (LLMs)
-- Full Stack Product Engineering
-- API Design & Microservices
-- Cloud Native Development
-- System Design Fundamentals
-- Performance Optimization
-- Software Architecture
-- Developer Productivity Tools
-
----
-
-# Open To
-
-✔ Full Stack Software Engineering
-
-✔ AI / ML Engineering
-
-✔ Backend Development
-
-✔ Product Engineering
-
-✔ Open Source Collaboration
-
-✔ Software Development Internship & Full-Time Roles
-
-✔ Hackathons & Research Projects
-
----
-
-# Tech Stack
-
-## Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,java,sql"/>
-
-</div>
-
----
-
-## Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,bootstrap,redux"/>
-
-</div>
-
----
-
-## Backend & Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb,redis,supabase,firebase"/>
-
-</div>
-
----
-
-## Cloud • DevOps • Tooling
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,aws,postman,vscode,linux"/>
-
-</div>
-
----
-
-## Software Engineering Practices
-
-<div align="center">
-
-| Engineering | Technologies |
-|-------------|--------------|
-| Architecture | REST APIs • Modular Design • Layered Architecture |
-| Authentication | JWT • OAuth • Google Sign-In |
-| Databases | PostgreSQL • MySQL • MongoDB • Redis |
-| AI | Gemini API • RAG • Prompt Engineering • Vector Search |
-| Backend | FastAPI • SQLAlchemy • Pydantic • Celery |
-| Frontend | React • Vite • Tailwind CSS |
-| Deployment | Vercel • Hugging Face • Supabase |
-| Version Control | Git • GitHub • GitHub Actions |
-| Development | Agile • Clean Code • API Testing |
+<img src="https://img.shields.io/github/stars/anji0731?affiliations=OWNER&style=for-the-badge&color=A855F7"/>
 
 </div>
 
@@ -157,7 +76,7 @@ I actively explore modern software engineering, cloud-native architectures, gene
 
 <div align="center">
 
-### *"Building intelligent software with scalable engineering principles."*
+### *"Designing intelligent software that scales from ideas to production."*
 
 </div>
 
