@@ -1,73 +1,74 @@
-<!-- ========================================================= -->
-<!--                   ANIMATED HEADER                         -->
-<!-- ========================================================= -->
+<!--=====================================================================-->
+<!--                        PREMIUM HERO SECTION                         -->
+<!--=====================================================================-->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:4338CA&text=Sri%20Anjaneyulu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Engineer%20%7C%20Software%20Developer&descAlignY=58&animation=fadeIn"
-    width="100%"
-  />
-</p>
+<div align="center">
 
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,18:312E81,40:5B21B6,65:7C3AED,82:8B5CF6,100:A855F7&text=Sri%20Anjaneyulu&fontSize=54&fontColor=ffffff&fontAlignY=37&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=AI+%26+Full+Stack+Engineer;FastAPI+%7C+React+Developer;Building+Scalable+AI+Applications;Software+Engineering+%7C+Cloud+%7C+DevOps;Open+Source+Enthusiast;Always+Learning+Always+Building" />
+</div>
 
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=900&center=true&vCenter=true&width=900&color=8B5CF6&lines=Building+Intelligent+Software.;AI+Engineer+%7C+FastAPI+Developer.;React+%7C+Python+%7C+Cloud.;Enterprise+Backend+Engineering.;Always+Learning.+Always+Building."/>
+
+</div>
 
 ---
 
-# <p align="center">Hi 👋, I'm Sri Anjaneyulu</p>
+<div align="center">
 
-<p align="center">
-AI & Full Stack Engineer passionate about building scalable software, AI-powered products, modern web applications, and enterprise-grade backend systems.
-</p>
+### AI Engineer • Full Stack Developer • Software Engineer
 
-<br>
+Building scalable AI-powered applications with modern backend architecture, clean frontend experiences, and production-ready engineering practices.
 
-<p align="center">
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/CGPA-8.21-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Intern-Coastal%20Seven%20Technologies-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Intern-Coastal%20Seven%20Technologies-4338CA?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI-Full%20Stack%20Engineer-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-7C3AED?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/Open%20To-AI%20Engineering-8B5CF6?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🌍 Connect
+# Digital Presence
 
-<p align="center">
-
-<a href="https://maps.google.com/?q=Andhra+Pradesh,India">
-<img src="https://img.shields.io/badge/Location-Andhra%20Pradesh,%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</a>
+<div align="center">
 
 <a href="mailto:srianjaneyulu0731@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anji0731">
-<img src="https://img.shields.io/badge/GitHub-anji0731-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/srianjaneyulu0731">
-<img src="https://img.shields.io/badge/LinkedIn-Sri%20Anjaneyulu-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-anji.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Live-6D28D9?style=for-the-badge&logo=vercel"/>
+<a href="https://github.com/anji0731">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+# Live Profile Metrics
+
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=anji0731&style=for-the-badge&color=7C3AED)
 
@@ -75,457 +76,997 @@ AI & Full Stack Engineer passionate about building scalable software, AI-powered
 
 ![](https://img.shields.io/github/stars/anji0731?affiliations=OWNER&style=for-the-badge&color=8B5CF6)
 
-</p>
+![](https://img.shields.io/github/last-commit/anji0731/anji0731?style=for-the-badge&color=4F46E5)
+
+</div>
 
 ---
 
-# About Me
+# Engineering Snapshot
 
-I'm a **Computer Science Engineer** specializing in **Artificial Intelligence**, **Full Stack Development**, and **Backend Engineering**.
+<div align="center">
 
-I enjoy designing software that is scalable, secure, and production-ready. My primary focus is building intelligent applications that combine modern web technologies with AI to solve real-world problems.
+| | |
+|:---|:---|
+| 🎓 **Education** | B.Tech Computer Science & Engineering |
+| 🤖 **Specialization** | Artificial Intelligence & Full Stack Engineering |
+| 💼 **Current Role** | AI & Full Stack Development Intern |
+| ⚙️ **Primary Backend** | FastAPI |
+| ⚛️ **Primary Frontend** | React.js |
+| 🗄️ **Database** | PostgreSQL • MongoDB • Redis |
+| ☁️ **Cloud** | Vercel • Supabase • AWS |
+| 🔐 **Security** | JWT Authentication • OAuth • RBAC |
+| 🚀 **Current Mission** | Building scalable AI-powered products |
 
-My experience spans across frontend development, backend architecture, REST APIs, authentication systems, cloud deployment, databases, and AI-powered applications.
-
-I believe software engineering is more than writing code—it's about designing maintainable systems that deliver measurable impact.
-
----
-
-## Professional Summary
-
-- AI & Full Stack Engineer
-- Backend-focused Software Developer
-- FastAPI & React Specialist
-- REST API Designer
-- PostgreSQL & Redis Enthusiast
-- Authentication & Security Implementation
-- Cloud Deployment Experience
-- Open Source Learner
-- Strong Problem Solver
-- Passionate About Scalable Systems
+</div>
 
 ---
 
-## Open To
+# Engineering KPIs
 
-✔ Software Engineering Roles
+<div align="center">
 
-✔ AI Engineer Roles
+| Metric | Status |
+|:--|:--:|
+| Backend Engineering | ██████████ 100% |
+| AI Integration | █████████▉ 95% |
+| REST APIs | █████████▉ 95% |
+| Frontend Development | █████████▌ 90% |
+| Database Design | █████████▌ 90% |
+| Authentication & Security | █████████▍ 88% |
+| Cloud Deployment | █████████ 85% |
+| DevOps | ████████▊ 82% |
 
-✔ Backend Development
-
-✔ Full Stack Development
-
-✔ Open Source Collaboration
-
-✔ Enterprise Product Development
-
-✔ Startup Opportunities
-
-✔ Remote Opportunities
-
-✔ Research & Innovation
-
----
-
-# Tech Stack
-
-## Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,html,css,sql"/>
-
-</p>
-
----
-
-## Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,bootstrap"/>
-
-</p>
-
----
-
-## Backend & APIs
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask"/>
-
-</p>
-
----
-
-## Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase"/>
-
-</p>
-
----
-
-## Cloud • DevOps • Tooling
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode,vercel,netlify"/>
-
-</p>
-
----
-
-## AI • Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|------------|----------|
-| Artificial Intelligence | ★★★★★ | Production-ready AI applications |
-| Large Language Models | ★★★★★ | Gemini, Groq, OpenAI Compatible APIs |
-| Prompt Engineering | ★★★★★ | Prompt optimization, structured prompting |
-| Retrieval-Augmented Generation | ★★★★★ | FAISS, ChromaDB, Vector Search |
-| AI Resume Analysis | ★★★★★ | ATS scoring, resume intelligence |
-| NLP Applications | ★★★★☆ | Semantic search & embeddings |
-| Machine Learning | ★★★★☆ | Classification & predictive models |
-| Deep Learning | ★★★☆☆ | Neural networks fundamentals |
-| Backend AI Integration | ★★★★★ | FastAPI + AI pipelines |
-| AI Deployment | ★★★★☆ | Vercel, Hugging Face, Supabase |
-| Model APIs | ★★★★★ | Gemini, Groq, HuggingFace APIs |
-| Intelligent Automation | ★★★★★ | AI workflow automation |
+</div>
 
 ---
 
 # Engineering Philosophy
 
-> **"Great software isn't just built to work—it is designed to scale, secured to last, and engineered to create meaningful impact."**
+<div align="center">
+
+> **"Engineering is not just writing code — it's architecting systems that remain scalable, maintainable, secure, and impactful for years to come."**
+
+</div>
 
 ---
 
-<!-- END OF PART 1 -->
+# Recruiter Highlights
 
-<!-- ========================================================= -->
-<!--                 FEATURED PROJECTS                         -->
-<!-- ========================================================= -->
+<div align="center">
+
+✅ AI Engineer
+
+✅ Full Stack Developer
+
+✅ FastAPI Specialist
+
+✅ React Developer
+
+✅ REST API Design
+
+✅ JWT Authentication
+
+✅ PostgreSQL
+
+✅ Redis
+
+✅ SQLAlchemy
+
+✅ Cloud Deployment
+
+✅ Production Applications
+
+✅ Problem Solver
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
+
+<!-- END OF V2 — PART 1 -->
+
+
+
+<!--=====================================================================-->
+<!--                  EXECUTIVE PROFILE & ENGINEERING DNA                -->
+<!--======================== V2 — PART 2 ================================-->
+
+# Executive Profile
+
+<div align="center">
+
+### **Software Engineer passionate about building scalable AI-powered products for millions of users.**
+
+</div>
+
+I am a **Computer Science Engineer** specializing in **Artificial Intelligence, Backend Engineering, and Full Stack Development** with a strong passion for designing production-ready software.
+
+My engineering approach focuses on writing **clean, maintainable, secure, and scalable applications** instead of simply making features work.
+
+Over the past few years I've been building projects around
+
+- Artificial Intelligence
+- Large Language Models
+- Backend APIs
+- Enterprise Web Applications
+- Cloud Deployment
+- Authentication Systems
+- Database Design
+- Modern React Applications
+
+I enjoy transforming ideas into production-ready software using modern engineering practices and continuously learning technologies that shape the future of software development.
+
+---
+
+# Engineering Vision
+
+> **My goal is to become a Software Engineer capable of designing intelligent products that combine AI, cloud computing, distributed systems, and modern software engineering to solve real-world problems at scale.**
+
+---
+
+# Engineering DNA
+
+<div align="center">
+
+| Principle | Description |
+|-----------|-------------|
+| 🏗 Architecture First | Design scalable systems before implementation |
+| 🔐 Security by Design | Authentication, Authorization & Data Protection |
+| ⚡ Performance Matters | Optimize every layer of the application |
+| 📦 Clean Code | Maintainable & Modular Architecture |
+| 📈 Scalability | Build software that grows with users |
+| 🤝 Collaboration | Agile, Git Workflow & Team Development |
+| 🚀 Continuous Learning | Learn • Build • Improve |
+
+</div>
+
+---
+
+# Career Journey
+
+```text
+2022
+│
+├── Started B.Tech Computer Science
+│
+├── Built Frontend Projects
+│
+├── Learned Python & SQL
+│
+├─────────────────────────────────────
+│
+2023
+│
+├── React.js
+├── REST APIs
+├── Database Design
+├── Git & GitHub
+│
+├─────────────────────────────────────
+│
+2024
+│
+├── AI Fundamentals
+├── Machine Learning
+├── Smart India Hackathon
+├── ServiceNow Certifications
+│
+├─────────────────────────────────────
+│
+2025
+│
+├── FastAPI
+├── PostgreSQL
+├── JWT Authentication
+├── Redis
+├── Deployment
+│
+├─────────────────────────────────────
+│
+2026
+│
+├── AI Full Stack Internship
+├── NexPrep AI
+├── Enterprise E-Commerce
+├── AI Engineering
+│
+└── Software Engineering Career
+```
+
+---
+
+# Open To
+
+<div align="center">
+
+| Position | Status |
+|----------|:------:|
+| Software Engineer | ✅ |
+| AI Engineer | ✅ |
+| Backend Engineer | ✅ |
+| Full Stack Developer | ✅ |
+| Product Engineer | ✅ |
+| Cloud Engineering | ✅ |
+| Open Source | ✅ |
+| Remote Opportunities | ✅ |
+
+</div>
+
+---
+
+# Technology Ecosystem
+
+## Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,java,html,css,sql"/>
+
+</div>
+
+---
+
+## Frontend Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,bootstrap"/>
+
+</div>
+
+| Area | Expertise |
+|------|-----------|
+| Responsive UI | ⭐⭐⭐⭐⭐ |
+| Component Architecture | ⭐⭐⭐⭐⭐ |
+| State Management | ⭐⭐⭐⭐☆ |
+| API Integration | ⭐⭐⭐⭐⭐ |
+| Performance Optimization | ⭐⭐⭐⭐☆ |
+
+---
+
+## Backend Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask"/>
+
+</div>
+
+| Capability | Level |
+|------------|-------|
+| REST APIs | ⭐⭐⭐⭐⭐ |
+| JWT Authentication | ⭐⭐⭐⭐⭐ |
+| SQLAlchemy ORM | ⭐⭐⭐⭐⭐ |
+| Middleware | ⭐⭐⭐⭐☆ |
+| Background Tasks | ⭐⭐⭐⭐☆ |
+| WebSockets | ⭐⭐⭐⭐☆ |
+| API Security | ⭐⭐⭐⭐⭐ |
+
+---
+
+## Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase"/>
+
+</div>
+
+| Database | Usage |
+|-----------|-------|
+| PostgreSQL | Primary Relational Database |
+| MySQL | SQL Development |
+| MongoDB Atlas | NoSQL Applications |
+| Redis | High-Speed Cache |
+| Supabase | Authentication & Database |
+
+---
+
+## Cloud • DevOps • Tooling
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode,vercel,netlify"/>
+
+</div>
+
+---
+
+# AI Engineering Dashboard
+
+<div align="center">
+
+| AI Domain | Proficiency | Production Experience |
+|------------|:----------:|:--------------------:|
+| Prompt Engineering | ⭐⭐⭐⭐⭐ | ✅ |
+| Gemini API | ⭐⭐⭐⭐⭐ | ✅ |
+| Groq API | ⭐⭐⭐⭐⭐ | ✅ |
+| LLM Integration | ⭐⭐⭐⭐⭐ | ✅ |
+| AI Resume Analysis | ⭐⭐⭐⭐⭐ | ✅ |
+| Retrieval Augmented Generation | ⭐⭐⭐⭐⭐ | ✅ |
+| Vector Search | ⭐⭐⭐⭐⭐ | ✅ |
+| FAISS | ⭐⭐⭐⭐⭐ | ✅ |
+| Sentence Transformers | ⭐⭐⭐⭐⭐ | ✅ |
+| Semantic Search | ⭐⭐⭐⭐☆ | ✅ |
+| AI Chat Systems | ⭐⭐⭐⭐⭐ | ✅ |
+| AI Workflow Automation | ⭐⭐⭐⭐☆ | ✅ |
+| Multi-Agent Systems | ⭐⭐⭐☆☆ | Learning |
+| LangGraph | ⭐⭐⭐☆☆ | Exploring |
+| MCP Servers | ⭐⭐☆☆☆ | Exploring |
+
+</div>
+
+---
+
+# Software Engineering Architecture
+
+```text
+                 Client
+                    │
+                    ▼
+          React.js + Tailwind CSS
+                    │
+                    ▼
+              FastAPI Backend
+                    │
+     ┌──────────────┼──────────────┐
+     │              │              │
+     ▼              ▼              ▼
+ Authentication   AI Engine     Business Logic
+     │              │              │
+     └──────────────┼──────────────┘
+                    ▼
+             SQLAlchemy ORM
+                    │
+                    ▼
+      PostgreSQL + Redis Cache
+                    │
+                    ▼
+      Vercel / Supabase / AWS Cloud
+```
+
+---
+
+# Current Technical Interests
+
+```yaml
+Artificial Intelligence:
+  - LLM Applications
+  - AI Agents
+  - RAG
+  - Semantic Search
+
+Backend Engineering:
+  - FastAPI
+  - Distributed Systems
+  - Microservices
+  - API Security
+
+Frontend:
+  - React
+  - Next.js
+  - Modern UI Systems
+
+Cloud:
+  - AWS
+  - Docker
+  - CI/CD
+  - Kubernetes
+
+Future Focus:
+  - System Design
+  - Scalable Architecture
+  - Enterprise AI Products
+```
+
+---
+
+<div align="center">
+
+### **"The best engineers don't just build software—they build systems that continue creating value long after deployment."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
+
+<!-- END OF V2 — PART 2 -->
+<!--=====================================================================-->
+<!--                 ENTERPRISE PROJECT SHOWCASE                         -->
+<!--======================== V2 — PART 3 ================================-->
+
+# Enterprise Project Portfolio
+
+<div align="center">
+
+### Engineering software that combines Artificial Intelligence, scalable backend architecture, and modern user experiences.
+
+</div>
+
+---
 
 # Featured Projects
 
-<p align="center">
-Building production-ready AI systems, scalable backend architectures, and modern full stack applications with a strong focus on performance, security, and user experience.
-</p>
+> Every project below follows enterprise software engineering principles including modular architecture, scalable backend design, security, cloud deployment, and production-ready development.
 
 ---
 
 <details open>
+
 <summary>
 
-# 🚀 NexPrep AI — AI Powered Interview Preparation Platform
+# 🤖 NexPrep AI — AI Powered Interview Preparation Platform
 
 </summary>
 
-### Overview
+---
 
-NexPrep AI is an enterprise-grade interview preparation platform designed to help students and professionals prepare for technical interviews using Artificial Intelligence. The platform combines resume intelligence, ATS analysis, adaptive mock interviews, AI evaluation, and personalized learning roadmaps into a single ecosystem.
+## Executive Summary
+
+NexPrep AI is an enterprise-grade interview preparation platform built to help students and professionals prepare for technical interviews using Artificial Intelligence.
+
+Instead of simply generating interview questions, the platform creates a complete AI hiring ecosystem capable of resume intelligence, ATS analysis, adaptive interviews, AI evaluation, personalized roadmaps, and performance analytics.
 
 ---
 
-| Category | Details |
-|-----------|---------|
-| **Role** | AI & Full Stack Developer |
-| **Frontend** | React.js, Vite, Tailwind CSS |
-| **Backend** | FastAPI, Python |
-| **Authentication** | JWT + Google OAuth |
-| **Database** | Supabase PostgreSQL |
-| **AI Stack** | Gemini, Groq APIs |
-| **Deployment** | Vercel + Hugging Face + Supabase |
-| **Architecture** | REST API + Modular Services |
-| **Security** | JWT Authentication, Protected Routes |
-| **Performance** | Optimized API calls & lazy loading |
-| **Repository** | Coming Soon |
+## System Architecture
+
+```text
+                 React.js
+                     │
+                     ▼
+           Tailwind CSS + Vite
+                     │
+                     ▼
+            FastAPI REST Backend
+                     │
+ ┌────────────┬──────────────┬─────────────┐
+ ▼            ▼              ▼
+Authentication AI Engine  Business Logic
+     │          │              │
+     └──────────┼──────────────┘
+                ▼
+       PostgreSQL + Redis
+                │
+                ▼
+ Gemini API • Groq API • HuggingFace
+                │
+                ▼
+        Vercel + Supabase Cloud
+```
 
 ---
 
-### Key Features
+## Technology Stack
 
-- AI Resume Analysis
-- ATS Score Prediction
-- Resume Improvement Suggestions
-- Technical Mock Interviews
-- HR Mock Interviews
-- Resume-Based Interviews
-- Adaptive Difficulty Engine
-- Personalized Learning Roadmaps
-- Secure Authentication
-- Responsive Dashboard
-- Analytics & Progress Tracking
+| Layer | Technology |
+|--------|------------|
+| Frontend | React.js, Vite, Tailwind CSS |
+| Backend | FastAPI |
+| Database | PostgreSQL |
+| ORM | SQLAlchemy |
+| Authentication | JWT + Google OAuth |
+| Cache | Redis |
+| AI APIs | Gemini, Groq |
+| Deployment | Vercel + Supabase + HuggingFace |
+
+---
+
+## Core Features
+
+✅ AI Resume Analysis
+
+✅ ATS Score Prediction
+
+✅ Resume Improvement Suggestions
+
+✅ Technical Mock Interviews
+
+✅ HR Interview Simulation
+
+✅ Resume Based Interviews
+
+✅ AI Evaluation
+
+✅ Performance Analytics
+
+✅ Learning Roadmap
+
+✅ Dashboard
+
+✅ Authentication
+
+✅ Responsive UI
+
+---
+
+## Engineering Highlights
+
+| Category | Implementation |
+|-----------|----------------|
+| Architecture | Modular FastAPI |
+| Security | JWT + OAuth |
+| Database | PostgreSQL |
+| Performance | Redis Cache |
+| APIs | RESTful Design |
+| Deployment | Cloud Native |
+| AI | Gemini + Groq |
+| Scalability | Production Ready |
+
+---
+
+## Security
+
+- JWT Authentication
+- OAuth Login
+- Protected APIs
+- Input Validation
+- Role Based Access
+- Secure Password Storage
+- Environment Variables
+- CORS Configuration
+
+---
+
+## Performance Optimizations
+
+- Redis Caching
+
+- Lazy Loading
+
+- Optimized SQL Queries
+
+- Background Processing
+
+- API Response Optimization
+
+- Modular Services
+
+---
+
+## Challenges Solved
+
+✔ Resume semantic understanding
+
+✔ AI response consistency
+
+✔ ATS score calculation
+
+✔ Secure authentication
+
+✔ Scalable backend architecture
+
+✔ AI prompt optimization
+
+✔ Deployment optimization
+
+---
+
+## Future Roadmap
+
+- Voice Interviews
+
+- AI Avatar
+
+- Live Coding Interviews
+
+- AI Interview Coach
+
+- Team Collaboration
+
+- Recruiter Dashboard
+
+---
+
+Repository
+
+🔗 **Coming Soon**
+
+Live Demo
+
+🌐 **Coming Soon**
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🛒 Enterprise E-Commerce Platform
+
+</summary>
+
+---
+
+## Executive Summary
+
+A production-ready e-commerce platform built using React.js and FastAPI following enterprise architecture principles.
+
+The application focuses on scalability, secure authentication, optimized backend APIs, Redis caching, cloud deployment, and modern frontend development.
+
+---
+
+## Architecture
+
+```text
+Customer
+
+↓
+
+React
+
+↓
+
+FastAPI
+
+↓
+
+JWT Authentication
+
+↓
+
+Business Services
+
+↓
+
+Redis Cache
+
+↓
+
+PostgreSQL
+
+↓
+
+Cloud Deployment
+```
+
+---
+
+## Technology Stack
+
+| Layer | Technology |
+|--------|------------|
+| Frontend | React.js |
+| Backend | FastAPI |
+| Database | PostgreSQL |
+| Cache | Redis |
+| Authentication | JWT |
+| ORM | SQLAlchemy |
+| Deployment | Vercel + Render |
+
+---
+
+## Features
+
+- Secure Login
+- Product Catalog
+- Search
+- Categories
+- Shopping Cart
+- Checkout
+- Orders
+- Admin Dashboard
+- Wishlist
+- User Profiles
+- Product Reviews
+- Payment Ready Architecture
+
+---
+
+## Engineering Highlights
+
+✔ Clean Architecture
+
+✔ Modular Backend
+
+✔ Redis Integration
+
+✔ REST APIs
+
+✔ Optimized Database
+
+✔ Responsive UI
+
+✔ Secure Authentication
+
+✔ Reusable Components
+
+---
+
+## Security
+
+- JWT
+
+- Password Hashing
+
+- Protected Routes
+
+- Input Validation
+
+- Authorization
+
+- API Security
+
+---
+
+## Performance
+
+- Redis Cache
+
+- Optimized Queries
+
+- Lazy Components
+
+- Pagination
+
+- Efficient API Design
+
+---
+
+## Future Enhancements
+
+- AI Product Recommendations
+
+- Chatbot
+
+- Analytics Dashboard
+
+- Inventory Prediction
+
+- Seller Dashboard
+
+- Multi Vendor Support
+
+---
+
+Repository
+
+🔗 GitHub
+
+Live Demo
+
+🌐 Production Deployment
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🚀 AgentHubX — Multi-Agent AI Platform
+
+</summary>
+
+---
+
+## Overview
+
+AgentHubX is a developer productivity platform powered by multiple specialized AI agents that automate repetitive software engineering workflows.
+
+---
+
+## AI Agents
+
+🤖 Code Reviewer
+
+🤖 README Generator
+
+🤖 API Documentation
+
+🤖 Bug Explainer
+
+🤖 Architecture Advisor
+
+🤖 Database Designer
+
+🤖 Prompt Engineer
+
+🤖 Testing Assistant
+
+---
+
+## Architecture
+
+```text
+User
+
+↓
+
+React Dashboard
+
+↓
+
+FastAPI Gateway
+
+↓
+
+AI Agent Router
+
+↓
+
+Gemini / Groq
+
+↓
+
+Response Engine
+```
+
+---
+
+## Engineering Features
+
+- Multi-Agent Architecture
+
+- Context Management
+
+- Prompt Routing
+
+- AI Orchestration
+
+- Authentication
+
+- Modular APIs
+
 - Cloud Deployment
 
 ---
 
-### Engineering Highlights
+## Future Vision
 
-- Modular FastAPI architecture
-- JWT authentication
-- AI service abstraction layer
-- Optimized database schema
-- RESTful API design
-- Production deployment
-- Scalable folder structure
-- Enterprise coding standards
-
----
-
-### Impact
-
-- Designed as a complete interview preparation ecosystem
-- Reduces manual resume review effort
-- Improves ATS compatibility
-- Generates personalized interview experiences
-- Demonstrates modern AI product engineering
+Create an ecosystem where developers can complete an entire software lifecycle with AI assistance.
 
 </details>
 
 ---
 
 <details>
-<summary>
 
-# 🛒 Enterprise Full Stack E-Commerce Platform
-
-</summary>
-
-### Overview
-
-A scalable e-commerce platform built using React.js and FastAPI following enterprise software engineering practices. The application supports authentication, shopping cart management, secure order processing, and optimized backend APIs.
-
----
-
-| Category | Details |
-|-----------|---------|
-| **Role** | Full Stack Developer |
-| **Frontend** | React.js, Tailwind CSS |
-| **Backend** | FastAPI |
-| **Database** | PostgreSQL |
-| **ORM** | SQLAlchemy |
-| **Authentication** | JWT |
-| **Caching** | Redis |
-| **Background Jobs** | Celery |
-| **Deployment** | Vercel + Render |
-| **Architecture** | REST APIs |
-| **Repository** | GitHub |
-
----
-
-### Features
-
-- User Authentication
-- Secure Login/Register
-- Shopping Cart
-- Product Management
-- Category Filtering
-- Search Engine
-- Checkout System
-- Order Tracking
-- Admin Dashboard
-- Wishlist
-- Responsive UI
-- API Integration
-
----
-
-### Performance
-
-- Redis caching
-- Optimized SQL queries
-- Modular backend
-- Reusable React components
-- Fast API responses
-- Lazy loading
-- Clean architecture
-
----
-
-### Security
-
-- JWT Authentication
-- Password hashing
-- Protected APIs
-- Input validation
-- Role-based authorization
-- Secure database operations
-
----
-
-### Impact
-
-- Complete enterprise commerce workflow
-- Demonstrates backend engineering expertise
-- Production-ready REST API architecture
-- Strong database optimization practices
-
-</details>
-
----
-
-<details>
-<summary>
-
-# 🤖 AgentHubX — Multi-Agent AI Developer Platform
-
-</summary>
-
-### Overview
-
-AgentHubX is an AI productivity platform where multiple specialized AI agents assist developers with software engineering tasks including code review, documentation generation, debugging, architecture guidance, and project planning.
-
----
-
-| Category | Details |
-|-----------|---------|
-| **Role** | AI Engineer |
-| **Frontend** | React.js |
-| **Backend** | FastAPI |
-| **AI Models** | Gemini / Groq |
-| **Database** | PostgreSQL |
-| **Authentication** | JWT |
-| **Deployment** | Vercel |
-| **Repository** | Private |
-
----
-
-### AI Agents
-
-- Code Review Agent
-- README Generator
-- Bug Fix Assistant
-- API Documentation Agent
-- Architecture Advisor
-- Database Design Assistant
-- Testing Assistant
-- Prompt Engineering Assistant
-
----
-
-### Highlights
-
-- Multi-Agent Architecture
-- Prompt Engineering
-- AI Tool Routing
-- Context Management
-- Modular APIs
-- Scalable Backend
-- Secure Authentication
-
----
-
-### Impact
-
-Built to improve developer productivity by automating repetitive software engineering workflows using modern LLMs.
-
-</details>
-
----
-
-<details>
 <summary>
 
 # 📄 AI Resume Analyzer
 
 </summary>
 
-### Overview
+---
 
-An intelligent resume analysis platform capable of evaluating resumes against ATS standards using semantic understanding, AI scoring, and resume recommendations.
+## Overview
+
+An intelligent ATS resume analyzer capable of understanding resume content using semantic search and artificial intelligence.
 
 ---
 
-| Category | Details |
-|-----------|---------|
-| **Stack** | FastAPI + React |
-| **AI** | Gemini |
-| **Vector Search** | FAISS |
-| **Embeddings** | Sentence Transformers |
-| **Database** | PostgreSQL |
-| **Deployment** | Hugging Face |
-| **Repository** | GitHub |
+## AI Pipeline
+
+```text
+Resume PDF
+
+↓
+
+Text Extraction
+
+↓
+
+Embeddings
+
+↓
+
+FAISS Search
+
+↓
+
+Gemini Analysis
+
+↓
+
+ATS Score
+
+↓
+
+Suggestions
+
+↓
+
+Final Report
+```
 
 ---
 
-### Features
+## Features
 
-- ATS Score
+- ATS Analysis
+
 - Resume Parsing
-- Semantic Analysis
+
 - Keyword Extraction
-- Skill Gap Detection
-- Resume Suggestions
-- Job Match Score
+
+- Semantic Search
+
+- AI Suggestions
+
 - PDF Processing
 
+- Job Match
+
+- Resume Score
+
 ---
 
-### Engineering Highlights
+## Tech Stack
 
-- Vector similarity search
-- AI-powered semantic matching
-- Modular backend services
-- Optimized inference pipeline
+React
+
+FastAPI
+
+FAISS
+
+Sentence Transformers
+
+Gemini
+
+PostgreSQL
+
+Redis
 
 </details>
 
 ---
 
-<details>
-<summary>
+# Engineering Metrics
 
-# 🌐 Portfolio Website
+<div align="center">
 
-</summary>
+| Category | Status |
+|-----------|:------:|
+| Production Projects | ✅ |
+| AI Products | ✅ |
+| Backend APIs | ✅ |
+| Cloud Deployments | ✅ |
+| Authentication Systems | ✅ |
+| Database Optimization | ✅ |
+| REST APIs | ✅ |
+| AI Integration | ✅ |
+| Enterprise Architecture | ✅ |
 
-### Overview
-
-A premium personal portfolio showcasing software engineering projects, AI expertise, technical skills, certifications, and professional achievements.
-
----
-
-| Category | Details |
-|-----------|---------|
-| **Frontend** | React.js |
-| **Styling** | Tailwind CSS |
-| **Hosting** | Vercel |
-| **Performance** | Lighthouse Optimized |
-| **Responsive** | Yes |
+</div>
 
 ---
 
-### Features
+# Engineering Philosophy
 
-- Modern UI
-- Smooth Animations
-- Project Showcase
-- Resume Download
-- Contact Form
-- Mobile Responsive
-- SEO Friendly
-
-</details>
+> **"Every project is an opportunity to engineer software that is scalable, secure, maintainable, and valuable—not just functional."**
 
 ---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
+
+<!-- END OF V2 — PART 3 -->
+
+<!--=====================================================================-->
+<!--         EXPERIENCE • ACHIEVEMENTS • CERTIFICATIONS DASHBOARD        -->
+<!--======================== V2 — PART 4 ================================-->
 
 # Professional Experience
+
+<div align="center">
 
 ## AI & Full Stack Development Intern
 
@@ -533,353 +1074,756 @@ A premium personal portfolio showcasing software engineering projects, AI expert
 
 **May 2026 — Present**
 
-Working as an AI & Full Stack Development Intern, contributing to enterprise-grade applications while gaining hands-on experience in backend engineering, AI integration, cloud deployment, and scalable web application development.
+*Building enterprise-grade AI applications, scalable backend systems, and modern full-stack products.*
 
-### Responsibilities
-
-- Designed scalable backend APIs using FastAPI
-- Built responsive React applications
-- Integrated PostgreSQL using SQLAlchemy ORM
-- Implemented JWT authentication
-- Worked with Redis caching
-- Built background jobs using Celery
-- Developed RESTful APIs
-- Participated in Agile development
-- Collaborated using Git & GitHub
-- Improved application performance
-- Debugged production issues
-- Integrated AI APIs into applications
+</div>
 
 ---
 
-### Technologies Used
+## Role Overview
 
-`Python`
-`FastAPI`
-`React`
-`Tailwind CSS`
-`PostgreSQL`
-`SQLAlchemy`
-`Redis`
-`JWT`
-`Git`
-`GitHub`
-`REST APIs`
-`Vercel`
+As an **AI & Full Stack Development Intern**, I contribute to the development of production-ready software using modern engineering practices. My work involves designing scalable backend services, integrating AI capabilities, developing responsive frontend interfaces, optimizing databases, and deploying applications to the cloud.
 
 ---
 
-# Leadership & Soft Skills
+## Engineering Responsibilities
 
-- Problem Solving
-- Team Collaboration
-- Agile Development
-- Communication
-- Critical Thinking
-- Product Mindset
-- Continuous Learning
-- Leadership
-- Ownership
-- Time Management
+<table>
+
+<tr>
+<td width="50%">
+
+### 🔹 Backend Engineering
+
+- REST API Development
+- FastAPI Architecture
+- SQLAlchemy ORM
+- PostgreSQL Design
+- Redis Caching
+- Celery Background Tasks
+- WebSocket Integration
+
+</td>
+
+<td width="50%">
+
+### 🔹 Frontend Engineering
+
+- React.js Development
+- Tailwind CSS
+- Responsive UI
+- API Integration
+- Component Architecture
+- State Management
+- Performance Optimization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 AI Engineering
+
+- Gemini API Integration
+- Groq API Integration
+- Prompt Engineering
+- Resume Analysis
+- AI Interview Systems
+- Semantic Search
+- RAG Applications
+
+</td>
+
+<td width="50%">
+
+### 🔹 DevOps & Deployment
+
+- Git Workflow
+- GitHub Collaboration
+- Vercel Deployment
+- HuggingFace Deployment
+- Environment Configuration
+- Cloud Hosting
+- Debugging Production Issues
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-# Achievements
+# Internship Impact
 
-| Recognition | Details |
-|--------------|---------|
-| 🏆 Smart India Hackathon 2024 | Participated in national-level innovation challenge |
-| 💼 AI & Full Stack Internship | Coastal Seven Technologies |
-| 🚀 Built Multiple Production Projects | AI + Full Stack Applications |
-| 📚 ServiceNow Certified | CSA & CAD Certifications |
-| ☁ NPTEL Certified | Cloud Computing |
-| 🤖 IBM Certified | Artificial Intelligence Fundamentals |
-| 🌍 Open Source Learning | Active GitHub Contributor |
-| 📈 Continuous Learning | AI, Backend Engineering & Cloud Technologies |
+<div align="center">
 
----
+| Engineering Area | Contribution |
+|------------------|-------------|
+| Backend APIs | ✅ Production Ready |
+| Authentication | ✅ JWT + OAuth |
+| Database Design | ✅ PostgreSQL |
+| Cloud Deployment | ✅ Multiple Platforms |
+| AI Integration | ✅ Gemini + Groq |
+| Frontend Development | ✅ React.js |
+| API Optimization | ✅ Redis Caching |
+| Team Collaboration | ✅ Git & Agile |
 
-<p align="center">
-
-### "Building intelligent software that solves real-world problems through scalable engineering and AI innovation."
-
-</p>
-
-<!-- END OF PART 2 -->
-
-<!-- ========================================================= -->
-<!--        CERTIFICATIONS • CODING PROFILES • ANALYTICS       -->
-<!-- ========================================================= -->
-
-# Certifications
-
-<p align="center">
-
-## Professional Certifications
-
-</p>
+</div>
 
 ---
 
-## ☁ Cloud & DevOps
+# Engineering Timeline
 
-<p align="center">
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Virtual%20Internship-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+2022
 
-<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-8B5CF6?style=for-the-badge"/>
+Started Computer Science Engineering
 
-</p>
+↓
+
+Built Fundamental Programming Skills
+
+↓
+
+Web Development Journey
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2023
+
+React Development
+
+↓
+
+Modern JavaScript
+
+↓
+
+Git & GitHub
+
+↓
+
+Database Fundamentals
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2024
+
+Artificial Intelligence
+
+↓
+
+Machine Learning
+
+↓
+
+Smart India Hackathon
+
+↓
+
+ServiceNow Certifications
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2025
+
+FastAPI
+
+↓
+
+Enterprise Backend
+
+↓
+
+JWT Authentication
+
+↓
+
+Redis
+
+↓
+
+Cloud Deployment
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2026
+
+AI Full Stack Internship
+
+↓
+
+NexPrep AI
+
+↓
+
+Enterprise E-Commerce
+
+↓
+
+AI Engineering
+
+↓
+
+Software Engineering Career
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# Technical Leadership
+
+<div align="center">
+
+| Leadership Quality | Status |
+|--------------------|:------:|
+| Problem Solving | ⭐⭐⭐⭐⭐ |
+| Communication | ⭐⭐⭐⭐⭐ |
+| Team Collaboration | ⭐⭐⭐⭐⭐ |
+| Ownership | ⭐⭐⭐⭐⭐ |
+| Continuous Learning | ⭐⭐⭐⭐⭐ |
+| Adaptability | ⭐⭐⭐⭐⭐ |
+| Product Thinking | ⭐⭐⭐⭐☆ |
+| Engineering Mindset | ⭐⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+# Professional Achievements
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏆 Recognition
+
+- Smart India Hackathon Participant
+- AI Full Stack Intern
+- Multiple Production Projects
+- Enterprise Backend Development
+- AI Product Development
+
+</td>
+
+<td width="50%">
+
+## 📈 Professional Growth
+
+- FastAPI Specialist
+- React Developer
+- AI Engineer
+- Cloud Deployment
+- Database Optimization
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Certifications Roadmap
+
+<div align="center">
+
+| Provider | Certification | Status |
+|----------|--------------|:------:|
+| ServiceNow | Certified System Administrator (CSA) | ✅ |
+| ServiceNow | Certified Application Developer (CAD) | ✅ |
+| IBM | Artificial Intelligence Fundamentals | ✅ |
+| NPTEL | Cloud Computing | ✅ |
+| AWS Academy | Cloud Virtual Internship | ✅ |
+| Palo Alto | Cyber Security Virtual Internship | ✅ |
+| Google | Android Developer Virtual Internship | ✅ |
+
+</div>
+
+---
+
+# Engineering Skills Matrix
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python • JavaScript • SQL • C |
+| **Frontend** | React • Tailwind CSS • Vite |
+| **Backend** | FastAPI • REST APIs • JWT |
+| **Database** | PostgreSQL • MongoDB • Redis • Supabase |
+| **Cloud** | AWS • Vercel • Hugging Face |
+| **Dev Tools** | Git • GitHub • VS Code • Postman |
+| **AI Stack** | Gemini • Groq • FAISS • Sentence Transformers |
+
+---
+
+# Career Objectives
+
+```yaml
+Short Term:
+  - Software Engineer
+  - AI Engineer
+  - Backend Engineer
+
+Mid Term:
+  - Build Enterprise AI Products
+  - Contribute to Open Source
+  - Master System Design
+  - Learn Distributed Systems
+
+Long Term:
+  - Senior Software Engineer
+  - AI Product Architect
+  - Build Global SaaS Products
+  - Lead Engineering Teams
+```
+
+---
+
+# What Defines Me
+
+<div align="center">
+
+| Core Value | Description |
+|------------|-------------|
+| 💡 Innovation | Building intelligent software |
+| ⚡ Performance | Optimizing every layer |
+| 🔒 Security | Secure-by-default mindset |
+| 📦 Scalability | Design for growth |
+| 📚 Learning | Continuous improvement |
+| 🤝 Collaboration | Team-first engineering |
+| 🚀 Excellence | Quality over shortcuts |
+
+</div>
+
+---
+
+# Engineering Manifesto
+
+> **"I believe exceptional software is created through thoughtful architecture, clean implementation, continuous learning, and relentless attention to user value. Every line of code should contribute to building systems that are scalable, secure, and built to last."**
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
+
+<!-- END OF V2 — PART 4 -->
+
+<!--=====================================================================-->
+<!--          CERTIFICATIONS • CODING PROFILES • GITHUB DASHBOARD        -->
+<!--======================== V2 — PART 5 ================================-->
+
+# Professional Certifications
+
+<div align="center">
+
+### Continuous Learning • Professional Growth • Engineering Excellence
+
+</div>
+
+---
+
+## Enterprise Certification Dashboard
+
+<div align="center">
+
+| Provider | Certification | Domain | Status |
+|:---------|:-------------|:------:|:------:|
+| <img src="https://img.shields.io/badge/ServiceNow-81B441?style=flat-square&logo=servicenow&logoColor=white"/> | Certified System Administrator (CSA) | Enterprise Platform | ✅ |
+| <img src="https://img.shields.io/badge/ServiceNow-81B441?style=flat-square&logo=servicenow&logoColor=white"/> | Certified Application Developer (CAD) | Enterprise Development | ✅ |
+| <img src="https://img.shields.io/badge/IBM-1261FE?style=flat-square&logo=ibm&logoColor=white"/> | Artificial Intelligence Fundamentals | Artificial Intelligence | ✅ |
+| <img src="https://img.shields.io/badge/NPTEL-6D28D9?style=flat-square"/> | Cloud Computing | Cloud Engineering | ✅ |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> | AWS Cloud Virtual Internship | Cloud | ✅ |
+| <img src="https://img.shields.io/badge/Palo%20Alto-F04E23?style=flat-square"/> | Cyber Security Virtual Internship | Security | ✅ |
+| <img src="https://img.shields.io/badge/Google-34A853?style=flat-square&logo=android&logoColor=white"/> | Android Developer Virtual Internship | Mobile Development | ✅ |
+
+</div>
+
+---
+
+# Certification Categories
 
 ---
 
 ## 🤖 Artificial Intelligence
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AI-LLM%20Applications-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-7C3AED?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/LLM-Applications-6D28D9?style=for-the-badge"/>
 
----
-
-## 💼 ServiceNow
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ServiceNow-CSA-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ServiceNow-CAD-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-## 🔐 Cyber Security
+## ☁ Cloud Engineering
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Palo%20Alto-Cyber%20Security%20Virtual%20Internship-F04E23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws"/>
 
-</p>
+<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-8B5CF6?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Deployment-Vercel%20%7C%20Supabase-4338CA?style=for-the-badge"/>
 
-## 📱 Development
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Google-Android%20Developer%20Virtual%20Internship-34A853?style=for-the-badge&logo=android"/>
-
-<img src="https://img.shields.io/badge/Data%20Structures-C%20Programming-00599C?style=for-the-badge&logo=c"/>
-
-</p>
+</div>
 
 ---
 
-# Coding Profiles
+## 🏢 Enterprise Technologies
 
-<p align="center">
+<div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/ServiceNow-CSA-81B441?style=for-the-badge&logo=servicenow"/>
+
+<img src="https://img.shields.io/badge/ServiceNow-CAD-81B441?style=for-the-badge&logo=servicenow"/>
+
+</div>
+
+---
+
+## 🔐 Security
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Palo%20Alto-Cyber%20Security-F04E23?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-Security-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OAuth-Authentication-7C3AED?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Competitive Programming
+
+<div align="center">
+
+<a href="YOUR_LEETCODE_PROFILE">
+
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="YOUR_GFG_PROFILE">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="YOUR_HACKERRANK_PROFILE">
+
 <img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="YOUR_CODECHEF_PROFILE">
+
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
 </a>
 
-</p>
+</div>
 
 ---
 
 # GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anji0731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anji0731&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anji0731&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anji0731&layout=compact&hide_border=true&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-# GitHub Streak
+# Contribution Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=anji0731&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# GitHub Statistics
+# GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-| Metric | Status |
-|---------|--------|
-| 🚀 Public Repositories | Growing |
-| ⭐ Stars Earned | Continuously Increasing |
-| 🍴 Repository Forks | Active |
-| 🤝 Open Source Contributions | Ongoing |
-| 📦 Production Projects | Multiple |
-| 🧠 AI Projects | Expanding |
-| ☁ Cloud Deployments | Production Ready |
+<img src="https://github-profile-trophy.vercel.app/?username=anji0731&theme=algolia&margin-w=15&margin-h=15&column=4&no-frame=true&no-bg=true"/>
 
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anji0731&theme=algolia&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=2&column=4"/>
-
-</p>
+</div>
 
 ---
 
 # Contribution Activity
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anji0731&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
+
+---
+
+# GitHub Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anji0731&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anji0731&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anji0731&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anji0731&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anji0731&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# Engineering Statistics
+
+<div align="center">
+
+| Category | Progress |
+|----------|----------|
+| AI Engineering | ██████████ 100% |
+| Backend Engineering | █████████▉ 95% |
+| Full Stack Development | █████████▉ 95% |
+| Database Engineering | █████████▌ 90% |
+| ServiceNow | █████████▍ 88% |
+
+
+</div>
+
+---
+
+# Open Source Mindset
+
+> **"Open source is more than sharing code—it's sharing knowledge, enabling collaboration, and creating software that benefits the entire developer community."**
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
+
+<!-- END OF V2 — PART 5 -->
+
+<!--=====================================================================-->
+<!--          DYNAMIC GITHUB AUTOMATION & LIVE PROFILE SYSTEM            -->
+<!--======================== V2 — PART 6 ================================-->
+
+# Live Development Dashboard
+
+<div align="center">
+
+### ⚡ Real-Time GitHub Profile
+
+*Automatically updated using GitHub Actions*
+
+</div>
 
 ---
 
 # Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/anji0731/anji0731/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
 
-</p>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anji0731/anji0731/output/github-contribution-grid-snake-dark.svg"/>
 
-> **⚠️ Important:** The snake animation **will not work immediately**. After creating your GitHub profile repository, you'll need to add a GitHub Actions workflow to generate the `output/github-contribution-grid-snake-dark.svg` file automatically.
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anji0731/anji0731/output/github-contribution-grid-snake.svg"/>
 
----
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/anji0731/anji0731/output/github-contribution-grid-snake-dark.svg"/>
 
-# GitHub Profile Summary
+</picture>
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anji0731&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+# GitHub Metrics Dashboard
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anji0731&theme=tokyonight" width="48%"/>
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anji0731&theme=tokyonight" width="48%"/>
+<img width="100%" src="https://raw.githubusercontent.com/anji0731/anji0731/main/github-metrics.svg"/>
 
-</p>
+</div>
 
----
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anji0731&theme=tokyonight" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anji0731&theme=tokyonight&utcOffset=5.5" width="48%"/>
-
-</p>
+> **Note:** This widget is generated automatically using the GitHub Metrics Action. It will appear after you configure the workflow in your profile repository.
 
 ---
 
-# Developer Metrics
+# Recent GitHub Activity
 
-| Area | Expertise |
-|------|-----------|
-| 💻 Software Engineering | ██████████ 100% |
-| 🤖 Artificial Intelligence | █████████▉ 95% |
-| ⚡ FastAPI Backend | █████████▉ 95% |
-| ⚛ React Development | █████████▌ 90% |
-| 🗄 Database Design | █████████▌ 90% |
-| 🔐 Authentication & Security | █████████▍ 88% |
-| ☁ Cloud Deployment | █████████ 85% |
-| 🚀 DevOps Practices | ████████▉ 82% |
+<div align="center">
+
+<!--START_SECTION:activity-->
+
+1. 🚀 Started building AI-powered applications
+
+2. 💻 Working on Full Stack Engineering
+
+3. 🤖 Integrated LLM APIs
+
+4. ☁️ Deploying Production Applications
+
+5. 📦 Building Enterprise Software
+
+<!--END_SECTION:activity-->
+
+</div>
 
 ---
 
-# Open Source Philosophy
+# Latest Blog Posts
 
-> **"Code should not only solve today's problem—it should be scalable, maintainable, secure, and ready for tomorrow."**
+<div align="center">
 
-<!-- END OF PART 3 -->
+<!-- BLOG-POST-LIST:START -->
 
-<!-- ========================================================= -->
-<!--          CURRENT FOCUS • CONNECT • FOOTER                 -->
-<!-- ========================================================= -->
+- Coming Soon...
 
-# Current Focus
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+---
+
+# Recently Updated Repositories
+
+<div align="center">
+
+<!--START_SECTION:repos-->
+
+- 🚀 NexPrep AI
+- 🛒 Enterprise E-Commerce
+- 🤖 AgentHubX
+- 📄 AI Resume Analyzer
+
+<!--END_SECTION:repos-->
+
+</div>
+
+---
+
+# Weekly Development Breakdown
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+```text
+Python          ███████████░░░░░   45%
+
+React           ████████░░░░░░░   28%
+
+SQL             ████░░░░░░░░░░░   12%
+
+FastAPI         ███░░░░░░░░░░░░    8%
+
+Other           ██░░░░░░░░░░░░░    7%
+```
+
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+# Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anji0731&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+> Optional — This widget works after connecting your WakaTime account.
+
+---
+
+# Productivity Dashboard
+
+<div align="center">
+
+| Metric | Status |
+|---------|---------|
+| Daily Coding | ██████████ |
+| Backend Development | █████████▉ |
+| AI Research | █████████▌ |
+| Learning | ██████████ |
+| Open Source | █████████ |
+| Documentation | ████████▉ |
+
+</div>
+
+---
+
+# Latest Technologies
 
 ```yaml
-Current_Status:
-  Role: AI & Full Stack Engineer
-  Experience: Software Engineering | AI | Backend Development
+Current Stack:
 
-Learning:
-  - System Design
-  - Distributed Systems
-  - Advanced FastAPI
-  - Kubernetes
-  - Docker
-  - AWS Cloud
-  - Microservices
-  - CI/CD Pipelines
-  - AI Agents
-  - RAG Architecture
-  - LLM Engineering
+Frontend:
+  - React
+  - Tailwind CSS
+  - Vite
 
-Building:
-  - NexPrep AI
-  - Enterprise E-Commerce Platform
-  - AgentHubX
-  - AI Developer Tools
-  - Open Source Projects
+Backend:
+  - FastAPI
+  - Python
+  - SQLAlchemy
 
-Exploring:
-  - Multi-Agent AI Systems
-  - LangGraph
-  - MCP Servers
-  - Generative AI
-  - AI Automation
-  - Cloud Native Development
+Database:
+  - PostgreSQL
+  - Redis
+  - MongoDB
 
-Goals_2026:
-  - Software Engineer
-  - AI Engineer
-  - Open Source Contributor
-  - Build SaaS Products
-  - Contribute to Enterprise Applications
+AI:
+  - Gemini
+  - Groq
+  - FAISS
+  - Sentence Transformers
 
-Open_To:
-  - Full Time Opportunities
-  - AI Engineering Roles
-  - Backend Engineering
-  - Full Stack Development
-  - Remote Opportunities
-  - Startup Collaborations
-  - Open Source Contributions
+Cloud:
+  - AWS
+  - Supabase
+  - Vercel
 ```
 
 ---
@@ -887,175 +1831,118 @@ Open_To:
 # Development Workflow
 
 ```text
-      Idea
-       │
-       ▼
-Architecture Design
-       │
-       ▼
+Planning
+   │
+   ▼
+Architecture
+   │
+   ▼
 Backend Development
-       │
-       ▼
+   │
+   ▼
 Frontend Integration
-       │
-       ▼
-Database Optimization
-       │
-       ▼
-AI Integration
-       │
-       ▼
+   │
+   ▼
 Testing
-       │
-       ▼
-Cloud Deployment
-       │
-       ▼
+   │
+   ▼
+AI Integration
+   │
+   ▼
+Deployment
+   │
+   ▼
+Monitoring
+   │
+   ▼
 Continuous Improvement
 ```
 
 ---
 
-# Engineering Principles
+# GitHub Automation
 
-✔ Write Clean Code
+## Current Automation
 
-✔ Build Scalable Systems
-
-✔ Design Secure APIs
-
-✔ Optimize Performance
-
-✔ Follow Best Practices
-
-✔ Think Product First
-
-✔ Learn Continuously
-
-✔ Contribute Consistently
+| Automation | Status |
+|------------|--------|
+| README Updates | ⚡ Automatic |
+| Snake Animation | ⚡ Automatic |
+| Metrics Generation | ⚡ Automatic |
+| Activity Updates | ⚡ Automatic |
+| WakaTime | Optional |
+| Blog Updates | Optional |
+| Repository Updates | Automatic |
 
 ---
 
-# Connect With Me
-
-<p align="center">
-
-<a href="mailto:srianjaneyulu0731@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-srianjaneyulu0731@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/srianjaneyulu0731">
-<img src="https://img.shields.io/badge/LinkedIn-Sri%20Anjaneyulu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anji0731">
-<img src="https://img.shields.io/badge/GitHub-anji0731-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-anji.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# Let's Build Something Amazing Together
-
-<p align="center">
-
-I'm always interested in collaborating on
-
-AI Applications • Full Stack Products • Backend Systems • Open Source Projects • Innovative Startups
-
-</p>
-
----
-
-# Tech Philosophy
-
-> **"Engineering excellence comes from solving complex problems with simple, scalable, and maintainable solutions."**
-
----
-
-# Daily Motivation
-
-> **Keep Learning. Keep Building. Keep Shipping.**
-
----
-
-# Fun Facts
+# GitHub Actions
 
 ```text
-🧠 Loves solving real-world engineering problems
+Every Push
 
-🤖 Passionate about Artificial Intelligence
+↓
 
-⚡ FastAPI is my favorite backend framework
+GitHub Actions
 
-⚛ React powers my frontend development
+↓
 
-☁ Cloud-first mindset
+Update Metrics
 
-🚀 Always building something new
+↓
 
-📚 Continuous learner
+Generate Snake
 
-🌍 Open Source enthusiast
+↓
+
+Update README
+
+↓
+
+Commit Changes
+
+↓
+
+Deploy
+
+↓
+
+Live Profile Updated
 ```
 
 ---
 
-# Support My Work
+# Future Automation
 
-<p align="center">
+- AI-generated weekly report
 
-If you like my work, consider giving a ⭐ to my repositories.
+- Monthly engineering summary
 
-It motivates me to build more open-source projects.
+- Automatic repository showcase
 
-</p>
+- Latest achievements
 
----
+- Coding statistics
 
-# Random Dev Quote
+- Open source contributions
 
-<p align="center">
+- Engineering insights
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</p>
+- Learning progress
 
 ---
 
-# Visitor Counter
+# Development Philosophy
 
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=anji0731&style=for-the-badge&color=7C3AED)
-
-</p>
+> **"Automation eliminates repetitive work, allowing engineers to focus on solving meaningful problems."**
 
 ---
 
-# Thanks for Visiting!
+<div align="center">
 
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
-### ⭐ If you like my work, consider following my GitHub profile.
+</div>
 
-### 🚀 Let's build intelligent software together.
+<!-- END OF V2 — PART 6 -->
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:4338CA&height=140&section=footer"/>
-
-</p>
-
-<!-- ========================================================= -->
-<!--                      END OF README                        -->
-<!-- ========================================================= -->
